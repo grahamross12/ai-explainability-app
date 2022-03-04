@@ -1,0 +1,4 @@
+Flask
+Flask-Cors
+lobe[tf]
+tensorflow
